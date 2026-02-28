@@ -1,0 +1,49 @@
+{
+    "Settings": {
+        "interface_type": "openai_protocol",
+        "proxy_url": "http://127.0.0.1:7890",
+        "Document_Analysis_concurrency": 1
+    },
+    "Google_Native_Config": {
+        "input_method": "upload",
+        "max_attempts": 5,
+        "api_keys": [
+            "AIzaSyDO3VyPI3JQCARGawNFq9em8yQNfPKhV34"
+        ],
+        "model_name": "gemini-3-flash-preview"
+    },
+    "OpenAI_Protocol_Config": {
+        "input_method": "text",
+        "max_attempts": 5,
+        "api_pool": [
+            {
+                "remark": "XAPI 1",
+                "api_key": "sk-JOsIsEb5D8Wd9JZUMMlcaz2JWlBy90FZUm7PEQWvw4JzMDok",
+                "base_url": "https://ai.9w7.cn/v1",
+                "api_path": "/chat/completions",
+                "model_name": "claude-opus-4-6"
+            },
+            {
+                "remark": "XAPI 2",
+                "api_key": "sk-T19jixkIUKxrnlzhzsSsnJ2jkpAcZYKGkvkqmoz6cR6JBsDx",
+                "base_url": "https://ai.9w7.cn/v1",
+                "api_path": "/chat/completions",
+                "model_name": "claude-opus-4-6"
+            },
+            {
+                "remark": "XAPI 3",
+                "api_key": "sk-Q9GPFdxaNe15n2Avh2jzXrPK5XEYLatxVi1YLrn7zx55fh9A",
+                "base_url": "https://ai.9w7.cn/v1",
+                "api_path": "/chat/completions",
+                "model_name": "claude-opus-4-6"
+            },
+            {
+                "remark": "XAPI 4",
+                "api_key": "sk-sF0FxhEub9ueJffFNtKFpxPbRaFU5r8P8MbBmDoVgYL8E1P6",
+                "base_url": "https://ai.9w7.cn/v1",
+                "api_path": "/chat/completions",
+                "model_name": "claude-opus-4-6"
+            }
+        ]
+    }
+}

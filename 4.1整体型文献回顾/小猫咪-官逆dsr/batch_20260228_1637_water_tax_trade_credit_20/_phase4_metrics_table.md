@@ -1,0 +1,22 @@
+| file | phase4_line | phase4_chars_total | citation_count | citation_unique_count | has_author_year | forbidden_hits | connector_hits | guidance_hits | paragraph_count | para_with_contrast | max_cites_per_sentence |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run01_20260228_163133_87b7da63.md | 50 | 3549 | 23 | 18 | False | [] | 13 | 57 | 16 | 5 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run01_20260228_163704_00716c87.md | 53 | 3496 | 22 | 15 | False | [] | 13 | 50 | 16 | 5 | 2 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run02_20260228_163119_c9b15e49.md | 52 | 2480 | 22 | 17 | False | [] | 10 | 39 | 9 | 3 | 2 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run02_20260228_163721_6cdeef0f.md | 59 | 4223 | 26 | 19 | True | [] | 7 | 74 | 24 | 5 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run03_20260228_163246_10acdef3.md | 55 | 4346 | 22 | 14 | False | [] | 9 | 85 | 16 | 5 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run03_20260228_163718_5073a86f.md | 59 | 4361 | 50 | 19 | False | [] | 8 | 82 | 9 | 3 | 5 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run04_20260228_163355_c3f385f6.md | 53 | 2983 | 19 | 16 | False | [] | 6 | 60 | 8 | 4 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run04_20260228_163715_95539d98.md | 53 | 4010 | 31 | 17 | False | [] | 12 | 62 | 10 | 5 | 4 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run05_20260228_163410_b7662eba.md | 55 | 3166 | 17 | 15 | False | [] | 7 | 68 | 6 | 4 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run05_20260228_163705_91a9d11c.md | 50 | 3764 | 28 | 16 | False | [] | 13 | 73 | 21 | 7 | 2 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run07_20260228_163200_ba1acc92.md | 50 | 4569 | 21 | 17 | False | ['双重差分', '工具变量'] | 27 | 67 | 20 | 8 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run10_20260228_163354_22651a8b.md | 41 | 4761 | 32 | 17 | False | [] | 20 | 69 | 20 | 7 | 3 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run12_20260228_163243_9ae47154.md | 58 | 4287 | 29 | 17 | False | [] | 13 | 87 | 22 | 5 | 2 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run13_20260228_163241_4e9e9ab1.md | 56 | 5483 | 35 | 18 | False | [] | 10 | 76 | 21 | 4 | 4 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run15_20260228_163311_bfa49eb4.md | 49 | 3307 | 24 | 16 | False | [] | 14 | 50 | 8 | 6 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run16_20260228_163321_ec2e2b49.md | 53 | 4229 | 35 | 18 | False | [] | 18 | 51 | 21 | 6 | 5 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run17_20260228_163141_a1cc31b9.md | 41 | 3195 | 21 | 18 | False | [] | 8 | 57 | 9 | 5 | 2 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run18_20260228_163209_2383390f.md | 55 | 4052 | 24 | 17 | False | [] | 16 | 74 | 20 | 6 | 2 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run19_20260228_163353_b3c75973.md | 55 | 3389 | 22 | 19 | False | [] | 14 | 58 | 6 | 5 | 1 |
+| Step3_Impact of water resource tax policy instruments on enterprise trade credit financing_综述架构——整体型_run20_20260228_163248_9713d6f7.md | 57 | 4311 | 27 | 18 | False | [] | 7 | 83 | 21 | 2 | 2 |
